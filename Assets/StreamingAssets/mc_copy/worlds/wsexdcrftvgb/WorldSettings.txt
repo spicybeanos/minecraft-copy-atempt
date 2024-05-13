@@ -1,0 +1,1 @@
+{"ChunkLength":2,"GenSize":0,"BlockGenType":0,"GenType":0,"SaveType":0,"YScale":75,"YOffset":-20,"TreeSpawnRate":0.1,"Seed":0}

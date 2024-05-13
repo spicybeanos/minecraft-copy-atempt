@@ -1,0 +1,2 @@
+chunk_pos (x,y,z)
+block_pos = block_xyz + chunk_pos * Chunk.ChunkLength

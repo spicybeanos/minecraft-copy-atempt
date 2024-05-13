@@ -1,0 +1,12 @@
+type=GenerationSettings;
+ChunkPos={0,0,0};
+ChunksLength=160;
+SandLevel=10;
+Seed=[1230580,783592,853080];
+treeSettings={
+addTrees=True,
+spawnProbabilty=0.03845246,
+treeLayerMax=48
+};
+YOffset=-20;
+YScale=75;
